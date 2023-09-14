@@ -1,4 +1,4 @@
-# LEARN-JAVASCRIPT_7
+# LEARN-JAVASCRIPT_7_OBJECTS
 __Meal Maker
 
 A restaurant has hired you to create a function for their website that allows them to set a meal and price each morning for Today’s Special. 
